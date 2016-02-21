@@ -2,6 +2,7 @@ name: desirables
 favicon: null
 layout_spectrum: 0.99315
 typography_spectrum: 0
+title: 'stuff you want!'
 cta:
   domain: null
   bucket: null
